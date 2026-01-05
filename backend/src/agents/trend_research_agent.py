@@ -31,4 +31,3 @@
 #     tools=[google_search],
 #     output_key="trend_research"
 # )
-# print("✅ Agent 2: Trend Research Agent created.")

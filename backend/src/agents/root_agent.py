@@ -5,4 +5,3 @@
 #     sub_agents=[content_analyst_agent, trend_research_agent,creative_strategist_agent,final_report_agent ],
 # )
 # runner = InMemoryRunner(agent=root_agent)
-# print("✅Root Agent created") 
